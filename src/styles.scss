@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+body {
+	background: rgb(40, 40, 40);
+	font-family: 'Bebas Neue', cursive;
+	letter-spacing: 0.5em;
+	color: white;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+}
